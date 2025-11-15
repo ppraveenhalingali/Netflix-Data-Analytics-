@@ -1,5 +1,5 @@
 # Netflix-Analysis
-​📺 Netflix Data Analysis
+
 ​This project is a data analysis focused on a Netflix content dataset to identify key trends in content distribution, genre popularity, and country contributions.
 ​🎯 Objectives
 ​Analyze the distribution of Movies vs. TV Shows over time.
